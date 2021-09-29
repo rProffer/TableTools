@@ -1,0 +1,9 @@
+setup.py
+tabletools/DataBender.py
+tabletools/DataPrep.py
+tabletools/__init__.py
+tabletools.egg-info/PKG-INFO
+tabletools.egg-info/SOURCES.txt
+tabletools.egg-info/dependency_links.txt
+tabletools.egg-info/requires.txt
+tabletools.egg-info/top_level.txt
